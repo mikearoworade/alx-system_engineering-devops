@@ -1,4 +1,4 @@
-# 0x1A. Application server
+# 0x1A. Application server -- Michael Aroworade
 
 ## Tasks
 ### 0. Set up development with Python
